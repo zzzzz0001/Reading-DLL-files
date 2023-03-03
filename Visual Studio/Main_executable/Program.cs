@@ -75,7 +75,6 @@ namespace Main_executable
 
             foreach (var class_ in classes)   //LOOPING THROUGH ALL THE CLASSES FOUND IN THE DLL
             {
-                //class_.work();    //RUNNING THE FUNCTION IN THE CLASSES TO DISPLAY
                 Console.WriteLine(class_.FullName);
             }
 
