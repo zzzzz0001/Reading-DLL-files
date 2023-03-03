@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main_executable", "Main_executable\Main_executable.csproj", "{A5526386-1104-476E-8722-165EAD8194F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dll Generator", "Dll Generator\Dll Generator.csproj", "{88AD9D90-CB80-4540-BA9A-925B12FA8255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5526386-1104-476E-8722-165EAD8194F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5526386-1104-476E-8722-165EAD8194F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5526386-1104-476E-8722-165EAD8194F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5526386-1104-476E-8722-165EAD8194F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88AD9D90-CB80-4540-BA9A-925B12FA8255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88AD9D90-CB80-4540-BA9A-925B12FA8255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88AD9D90-CB80-4540-BA9A-925B12FA8255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88AD9D90-CB80-4540-BA9A-925B12FA8255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7928B35D-BEB9-45A9-AC12-44B2889A3E4E}
+	EndGlobalSection
+EndGlobal
